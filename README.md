@@ -1,4 +1,4 @@
-# HangMan-Game-Task
+# HangMan-Game-Task-Strategy
 
 1. Vowel Count Ratio Analysis:
 - The strategy involves analyzing the ratio of vowels to the length of a word.
